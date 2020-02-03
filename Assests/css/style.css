@@ -1,0 +1,25 @@
+body {
+    background-color: #e1e1e1;
+    color: white;
+}
+
+#header {
+    background-color: coral;
+    height: 80px;
+    text-align: center;
+    vertical-align: middle;
+    
+}
+
+#buttonArea{
+    margin-top: 10px;
+}
+
+.btn {
+    margin: 3px;
+    background-color: darksalmon;
+}
+
+#gifArea{
+    margin-top: 20px;
+}
